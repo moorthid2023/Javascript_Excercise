@@ -9,6 +9,7 @@ body{
     display: flex;
     background-color:#c0392b;
     height: 500px;
+    flex-direction: column;
 }
 .headingClass{
     text-align: center;
